@@ -1,0 +1,13 @@
+{
+    "store.custom#landing":{
+        "blocks":[
+            "rich-text#titulo-landing"
+        ]
+    },
+    "rich-text#titulo-landing":{
+        "props":{
+            "text": "TITULO LANDING PAGE",
+            "blockClass": "txt-titulo-landing"
+        }
+    }
+}
